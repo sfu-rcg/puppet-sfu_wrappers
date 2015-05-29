@@ -1,0 +1,28 @@
+{
+  "name": "asasfu-sfu_wrappers",
+  "version": "0.1.0",
+  "author": "asasfu",
+  "summary": "Module to manage all disparate wrapper classes for modules to allow defined type management in TheForeman",
+  "license": "Apache 2.0",
+  "source": "https://github.com/sfu-rcg/puppet-sfu_wrappers",
+  "project_page": "https://github.com/sfu-rcg/puppet-sfu_wrappers",
+  "issues_url": null,
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": "3.x"
+    }
+  ]
+  "dependencies": [
+    {
+    }
+  ]
+}
